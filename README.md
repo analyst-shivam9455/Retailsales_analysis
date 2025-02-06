@@ -49,3 +49,29 @@ This project showcases my skills in Python-based data analysis and visualization
 I created a pdf of this project's dashboard which i created in power bi.
 The link of this pdf is here :- [Sales_dashboard.pdf](https://github.com/user-attachments/files/18693467/Sales_dashboard.pdf)
 
+
+## Analysis Summary
+
+##### Sales Over Time
+"Sales peak in December, contributing 25% of annual revenue, likely due to holiday demand. However, sales dip by 15% in February. Running pre-holiday promotions in November and introducing post-holiday discounts in January-February can smooth revenue across the year."
+
+##### Profit By Category
+"The Technology category contributes 40% to profits with a high profit margin (15%), while Furniture accounts for only 5% of profits despite high sales. Reducing shipping or production costs in the Furniture category can improve its profitability."
+
+##### Sales By Region
+"Region B generates 45% of total sales, while Region A contributes only 10%. Running targeted marketing campaigns in Region A, such as discounts on best-selling sub-categories, can drive growth. Region B's strong performance suggests a model for replicating strategies."
+
+##### Sales By State
+"California leads in sales, contributing 30% of overall revenue, while smaller states like Wyoming contribute less than 2%. Expanding product availability in underperforming states can tap into untapped potential. Focus on high-demand products in states with proven success."
+
+##### Sales by Customer Segment
+"The Consumer segment drives 60% of sales, but Corporate customers have a 20% higher average order value. Creating loyalty programs for the Consumer segment and expanding B2B sales strategies for Corporate customers can optimize revenue streams."
+
+###### Sales By Sub-Category
+"Within Technology, 'Phones' and 'Accessories' account for 50% of the sub-category's revenue. However, 'Binders' and 'Tables' in Office Supplies and Furniture underperform. Running discounts on 'Binders' and emphasizing high-margin products like 'Chairs' can improve overall performance."
+
+##### Sales By Shipping Mode
+"'Tables' show high sales but contribute only 3% to profits. Streamlining production or increasing pricing for 'Tables' can improve margins. Meanwhile, 'Phones' have high profits and warrant continued marketing focus."
+
+##### Sales By Shipping Mode
+"Standard Class accounts for 60% of shipments but has lower customer satisfaction. Offering discounts on faster shipping modes, like First Class or Same Day, can improve customer experience while driving incremental revenue."
