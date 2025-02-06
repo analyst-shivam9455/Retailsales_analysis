@@ -43,3 +43,9 @@ This project showcases my skills in Python-based data analysis and visualization
 ![sales_by_subcategory_plot](https://github.com/user-attachments/assets/2104a9e9-d35d-4c10-859c-44fb69cacc7c)
 ![sales_by_state_plot](https://github.com/user-attachments/assets/2625c4f6-5e79-4f6a-819d-9ee1b620a5d2)
 ![sales_by_shipmode_plot](https://github.com/user-attachments/assets/ce68d901-2339-4201-b925-511df384c231)
+
+### PDF form of Sales dash board 
+
+I created a pdf of this project's dashboard which i created in power bi.
+The link of this pdf is here :- [Sales_dashboard.pdf](https://github.com/user-attachments/files/18693467/Sales_dashboard.pdf)
+
